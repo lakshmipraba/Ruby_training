@@ -5,8 +5,4 @@ puts "This is fun."
 puts "Yay! Printing."
 puts "I'd much rather you 'not'."
 puts 'I "said" do not touch this.'
-
-# session 1 - with sriram
-
-puts "Hello World"
-puts "strings"
+print "." * 10
